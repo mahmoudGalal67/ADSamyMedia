@@ -3,7 +3,7 @@
 /* main-banner */
 
 main.main-banner {
-  background: url(../images/home/div.elementor-background-overlay.png);
+  background: url(../images/home/div.elementor-background-overlay.webp);
   background-position: center;
   background-size: cover;
   background-color: black;
@@ -51,7 +51,7 @@ section.big-move .wrapper .item {
 }
 
 section.big-move .wrapper .item::after {
-  content: url(../images/home/Vector1.png);
+  content: url(../images/home/Vector1.webp);
   position: absolute;
   right: 8px;
   top: 25%;
@@ -60,13 +60,13 @@ section.big-move .wrapper .item::after {
 }
 
 section.big-move .wrapper .item:nth-child(2)::after {
-  content: url(../images/home/Vector2.png);
+  content: url(../images/home/Vector2.webp);
 }
 section.big-move .wrapper .item:nth-child(3)::after {
-  content: url(../images/home/Vector3.png);
+  content: url(../images/home/Vector3.webp);
 }
 section.big-move .wrapper .item:nth-child(4)::after {
-  content: url(../images/home/Vector.png);
+  content: url(../images/home/Vector.webp);
 }
 section.big-move .wrapper .item:nth-child(2) {
   margin-top: 5%;
@@ -277,7 +277,7 @@ section.testimonials .owl-nav button span {
 
 section.get-in-touch {
   padding: 2%;
-  background: url(../images/home/Big-Move-Agency-Big-Move-Agency_2.png);
+  background: url(../images/home/Big-Move-Agency-Big-Move-Agency_2.webp);
 }
 
 section.get-in-touch a {
@@ -328,7 +328,7 @@ section.get-in-touch a:hover {
 /* mian-banner-section */
 
 main.main-banner.about {
-  background: url(../images/about/Section.png);
+  background: url(../images/about/Section.webp);
   background-position: center;
   background-size: cover;
   background-color: black;
@@ -609,7 +609,7 @@ section.people .item .right .info > a:hover {
 
 /* main-banner-section */
 main.main-banner.big-movers {
-  background: url(../images/big-movers/Group\ 4376.png);
+  background: url(../images/big-movers/Group\ 4376.webp);
   background-position: center;
   background-size: cover;
 }
@@ -694,7 +694,7 @@ section.culture-gallary .item > .details {
 /* main-banner-section */
 
 main.main-banner.portfolio {
-  background: url(../images/portfolio/Section.png);
+  background: url(../images/portfolio/Section.webp);
   background-position: center;
   background-size: cover;
 }
@@ -969,7 +969,7 @@ section.services .wrapper .item p {
 /* pictures-page */
 /* main-banner-section */
 main.main-banner.pictures {
-  background: url(../images/pictures/Section.png);
+  background: url(../images/pictures/Section.webp);
   background-position: center;
   background-size: cover;
 }
@@ -987,7 +987,7 @@ section.services.pictures .wrapper .item .number {
 /* activities-page */
 /* main-banner-section */
 main.main-banner.activities {
-  background: url(../images/activities/Section.png);
+  background: url(../images/activities/Section.webp);
   background-position: center;
   background-size: cover;
 }
@@ -1005,7 +1005,7 @@ section.services.activities .wrapper .item .number {
 /* stories-page */
 /* main-banner-section */
 main.main-banner.stories {
-  background: url(../images/stories/div.elementor-background-overlay.png);
+  background: url(../images/stories/div.elementor-background-overlay.webp);
   background-position: center;
   background-size: cover;
 }
